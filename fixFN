@@ -1,0 +1,13 @@
+#! /usr/bin/env ruby
+
+require "fileUtils"
+
+ROOT=ARGV[0]
+
+Dir.foreach(ROOT) do |file|
+  bn= File.relative_path(file).basename
+  fixName = bn + file.gsub(/ /, '-')
+  r = File.rename(File.relative_pathfile.to_s, fixName.to_s)
+  puts file + "  >  " +  fixName + "\n"
+end
+

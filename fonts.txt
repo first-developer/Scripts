@@ -1,0 +1,41 @@
+.abf	Adobe Binary Screen Font File	Uncommon
+.acfm	Adobe Composite Font Metrics File	Average
+.afm	Adobe Font Metrics File	Uncommon
+.amfm	Adobe Multiple Font Metrics File	Average
+.bdf	Glyph Bitmap Distribution Format	Average
+.cha	Character Layout File	Uncommon
+.chr	Borland Character Set File	Rare
+.compositefont	Windows Composite Font File	Average
+.dfont	Mac OS X Data Fork Font	Average
+.eot	Embedded OpenType Font	Uncommon
+.etx	TeX Font Encoding File	Uncommon
+.f3f	Crazy Machines Font File	Rare
+.ffil	Mac Font Suitcase	Uncommon
+.fnt	Windows Font File	Very Common
+.fon	Generic Font File	Very Common
+.fot	Font Resource File	Average
+.gdr	Symbian OS Font File	Average
+.gf		METAFONT Bitmap File	Uncommon
+.gxf	General CADD Pro Font File	Uncommon
+.lwfn	Adobe Type 1 Mac Font File	Uncommon
+.mcf	Watchtower Library Font File	Rare
+.mf		METAFONT File	Uncommon
+.mxf	Maxis Font File	Rare
+.nftr	Nintendo DS Font Type File	Rare
+.otf	OpenType Font	Very Common
+.pcf	PaintCAD Font	Rare
+.pfa	Printer Font ASCII File	Average
+.pfb	Printer Font Binary File	Average
+.pfm	Printer Font Metrics File	Average
+.pfr	Portable Font Resource File	Average
+.pk		Packed METAFONT File	Uncommon
+.sfd	Spline Font Database File	Average
+.suit	Macintosh Font Suitcase	Average
+.tfm	TeX Font Metric File	Average
+.ttc	TrueType Font Collection	Average
+.ttf	TrueType Font	Very Common
+.txf	Celestia Font Texture File	Uncommon
+.vnf	Vision Numeric Font	Uncommon
+.woff	Web Open Font Format File	Common
+.xfn	Ventura Printer Font	Average
+.xft	ChiWriter Printer Font	Rare
